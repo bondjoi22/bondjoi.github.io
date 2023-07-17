@@ -1,0 +1,57 @@
+menu:
+  主页: / || fas fa-home
+  归档: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
+  列表||fas fa-list:
+    音乐: /music/ || fas fa-music
+    电影: /movies/ || fas fa-video
+  友链: /link/ || fas fa-link
+  关于: /about/ || fas fa-heart
+
+nav:
+  logo: #image
+  display_title: true
+  fixed: false # fixed navigation bar
+
+disable_top_img: true
+# 网站图标
+favicon: /img/touxiang.jpg
+
+# Avatar (头像)
+avatar:
+  img: /img/touxiang.jpg
+
+ # 是否转圈
+  effect: false
+
+# 网站主页的背景图，不写则不展示
+index_img: /img/touxaing.jpg
+
+highlight_theme: light
+highlight_copy: true
+highlight_shrink: true #代码框不展开，需点击 '>' 打开
+code_word_wrap: true
+highlight_height_limit: false # unit: px
+
+index_post_content:
+  method: 3
+  length: 500 # if you set method to 2 or 3, the length need to config
+
+card_author:
+    enable: true
+    description:
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Follow Me
+      link: https://github.com/bondjoi22
+ 
+social:
+  fab fa-github: https://github.com/bondjoi22 || Github
+  fas fa-envelope: 865283203@qq.com || Email
+
+
+
+
+
