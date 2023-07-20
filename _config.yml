@@ -103,7 +103,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:bondjoi22/bondjoi22.github.io.git
+  repo: https://github.com/bondjoi22/bondjoi.github.io
 branch: main
 
 
