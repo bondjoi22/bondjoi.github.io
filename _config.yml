@@ -104,6 +104,6 @@ theme: butterfly
 deploy:
   type: git
   repo: git@github.com:bondjoi22/bondjoi22.github.git
-branch: main
+branch: master
 
 
